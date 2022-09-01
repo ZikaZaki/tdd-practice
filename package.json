@@ -1,0 +1,23 @@
+{
+  "name": "tdd-practice",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "shopping_cart.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZikaZaki/tdd-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZikaZaki/tdd-practice/issues"
+  },
+  "homepage": "https://github.com/ZikaZaki/tdd-practice#readme",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
