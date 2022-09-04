@@ -9,4 +9,4 @@ const result =
     .then(response => response.json())
     .then(data => data.rates.standard.value);
 
-result
+result 
