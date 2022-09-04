@@ -1,5 +1,6 @@
 const orderTotal = require('./shopping-cart');
 
+// Previous test
 // it('Quantity', ()=> {
 //     expect(orderTotal({
 //         items: [
